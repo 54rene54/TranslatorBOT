@@ -30,9 +30,6 @@
     "morse-code-lib": "^1.0.2",
     "pug": "^3.0.2",
     "romans": "^2.0.8"
-  },
-  "engines": {
-    "node": "18.x.x"
   }
 
 }
